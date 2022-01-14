@@ -1,0 +1,22 @@
+.delBtn {
+    display: flex;
+    height: 20px;
+    width: 20px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 17px;
+    
+}
+.card {
+width: 250px;
+display: block; 
+height: 164px; 
+  
+}
+
+section {
+    display: flex;
+    
+}
